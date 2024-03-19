@@ -9,6 +9,8 @@
   - 🎸 I play guitar in a band 
   - 🏓 Ping Pong master (self-proclaimed)
   - 🤓 DnD enthusiast
+ 
+![Duck at desk giving thumbs up!](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjMybHR1b2ZyZ2xidDd2dWhoa2k5NnZza3BqcnE1b3VudnU3NDJ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
 <!--
 **andrewwu-dev/andrewwu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
