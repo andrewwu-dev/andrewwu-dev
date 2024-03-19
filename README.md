@@ -8,7 +8,7 @@
 - ⚡ Fun facts:
   - 🎸 I play guitar in a band 
   - 🏓 Ping Pong master (self-proclaimed)
-  - 🤓 Dnd enthusiast
+  - 🤓 DnD enthusiast
 <!--
 **andrewwu-dev/andrewwu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
