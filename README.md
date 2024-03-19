@@ -1,5 +1,7 @@
 ### Hi, I'm Andrew 👋
 
+<img src="https://media.giphy.com/media/8bE0EERrvXkq5S9BCa/giphy.gif" width="150" height="150" />
+
 - 💻 I'm currently working at AssistIQ as a mobile engineer (but also working on backend + computer vision features too 😙).
 - 🌱 I'm currently learning full-stack technologies including trying to build a [social media app clone](https://github.com/andrewwu-dev/chirp_clone).
 - 🏫 I graduated from the University of Waterloo for electrical and computer engineering (ECE 2023).
@@ -10,9 +12,6 @@
   - 🏓 Ping Pong master (self-proclaimed)
   - 🤓 DnD enthusiast
 
- <p align="center">
-<img src="https://media.giphy.com/media/8bE0EERrvXkq5S9BCa/giphy.gif" width="300" height="300" />
- </p>
 
 <!--
 **andrewwu-dev/andrewwu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
