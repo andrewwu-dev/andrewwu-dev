@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi, I'm Andrew 👋
 
+- 💻 I'm currently working at AssistIQ as a mobile engineer (but also working on backend + computer vision features too 😙).
+- 🌱 I'm currently learning full-stack technologies including trying to build a [social media app clone](https://github.com/andrewwu-dev/chirp_clone).
+- 🏫 I graduated from the University of Waterloo for electrical and computer engineering (ECE 2023).
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/awudev/).
+- 📝 Check out (download) my [resume](https://github.com/andrewwu-dev/andrewwu-dev/files/14657492/AndrewWu_Resume.pdf) 🙇‍♂️.
+- ⚡ Fun facts:
+  - 🎸 I play guitar in a band 
+  - 🏓 Ping Pong master (self-proclaimed)
+  - 🤓 Dnd enthusiast
 <!--
 **andrewwu-dev/andrewwu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
