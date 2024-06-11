@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/8bE0EERrvXkq5S9BCa/giphy.gif" width="150" height="150" />
 
-- 💻 I'm currently working at AssistIQ as a mobile engineer (but also working on backend + computer vision features too 😙).
+- 💻 I'm currently working at Instacart as a mobile engineer.
 - 🌱 I'm currently learning full-stack technologies including trying to build a [social media app clone](https://github.com/andrewwu-dev/chirp_clone).
 - 🏫 I graduated from the University of Waterloo for electrical and computer engineering (ECE 2023).
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/awudev/).
